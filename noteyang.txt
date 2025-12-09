@@ -1,0 +1,14 @@
+Change to sm6 first
+wear 2 katana
+tree buff effect
+buff 1 2 3 & pet (from the 20th mins-must)
+superior combo energy while tree buff
+10% atk while tree buff
+gold key buff (the last to buff) while tree buff
+remove buff 123 & add Mind's eye skill
+Grudge fruit, +20% hp
+minion, infinite and x3 speed
+jump effect, windstamp
+HUD on the top
+
+prepare minion, jump
